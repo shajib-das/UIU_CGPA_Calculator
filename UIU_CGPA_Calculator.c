@@ -51,6 +51,5 @@ int main()
     cgpa = actual_total_gpa / total_credit;
     printf("CGPA: %0.2lf\n", cgpa);
 
-
     return 0;
 }
